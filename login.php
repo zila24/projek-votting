@@ -197,13 +197,13 @@ if (isset($_POST["login"])) {
                     <input type="text" name="nama" placeholder="Name" required>
                 </div>
                 <div class="input-box">
-                    <input type="password" name="kode" placeholder="kode" required>
+                    <input type="kode" name="kode" placeholder="kode" required>
                 </div>
                 <button type="submit" name="login">Sign In</button>
             </form>
             <div class="footer">
                 <hr>
-                By Kelompok 5. 2025
+                By Kelompok 5. 2026
             </div>
         </div>
     <?php endif; ?>
